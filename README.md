@@ -1,7 +1,7 @@
 # todo_app
 
-A new Flutter application.
-
+This application developed by Flutter, state management bloC (Cubit) and Sqflite package for store tasks locally.
+in this application user can add any task and specify end date and time for it and he can delete or archive any task and after finish the task he can move the task to done list tasks.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
